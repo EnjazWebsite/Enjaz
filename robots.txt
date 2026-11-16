@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beige-ribbon.vercel.app/sitemap.xml
